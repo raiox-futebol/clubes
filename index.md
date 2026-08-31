@@ -1,7 +1,11 @@
 
 # BRASILEIRO A1
 
- ![corinthians-sp](clubes/escudos/sp_corinthians.png)
+
+ ![sp_corinthians](/escudos/sp_corinthians.png)
+
+ ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
 
 | clube                             | UF | via de conquista da vaga                 |
 |:----------------------------------|:---|:-----------------------------------------|
