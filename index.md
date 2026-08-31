@@ -10,22 +10,13 @@ layout: default
 
 # ACRE
 
-| ano        |  geral | adulto | sub20 | sub17 | sub15 | 
-|:-----------|:-------|:-------|:------|:------|:------|
-| 2013       | ITEM   | ITEM   | ITEM  | ITEM  | ITEM  |
-| 2014       | ITEM   | ITEM   | ITEM  | ITEM  | ITEM  |
-| 2015       | ITEM   | ITEM   | ITEM  | ITEM  | ITEM  |
-| 2016       | ITEM   | ITEM   | ITEM  | ITEM  | ITEM  |
-| 2017       | ITEM   | ITEM   | ITEM  | ITEM  | ITEM  |
-| 2018       | ITEM   | ITEM   | ITEM  | ITEM  | ITEM  |
-| 2019       | ITEM   | ITEM   | ITEM  | ITEM  | ITEM  |
-| 2020       | ITEM   | ITEM   | ITEM  | ITEM  | ITEM  |
-| 2021       | ITEM   | ITEM   | ITEM  | ITEM  | ITEM  |
-| 2022       | ITEM   | ITEM   | ITEM  | ITEM  | ITEM  |
-| 2023       | ITEM   | ITEM   | ITEM  | ITEM  | ITEM  |
-| 2024       | ITEM   | ITEM   | ITEM  | ITEM  | ITEM  |
-| 2025       | ITEM   | ITEM   | ITEM  | ITEM  | ITEM  |
-| 2026       | ITEM   | ITEM   | ITEM  | ITEM  | ITEM  |
+No site da Federação, não há documentos de regulamentos para competições anteriores à 2023
+
+| ano |  geral | adulto | sub20 | sub18 | sub17 | sub16 | sub15 | sub14 |
+|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+| **2024** | [verificar] | [🗎](files/regulamentos/acre/2024_AC_adulto.pdf) | | | [🗎](files/regulamentos/acre/2024_AC_sub17.pdf) | | [🗎](files/regulamentos/acre/2024_AC_sub15.pdf) | |
+| **2025** | [verificar] | [🗎](files/regulamentos/acre/2025_AC_adulto.pdf) | | [🗎](files/regulamentos/acre/2025_AC_sub18.pdf) | | [🗎](files/regulamentos/acre/2025_AC_sub16.pdf) | | [🗎](files/regulamentos/acre/2025_AC_sub14.pdf) |
+| **2026** | [verificar] | [previsto] | [previsto] | | [solicitado](files/regulamentos/acre/2026_AC_sub17.png) | | [🗎](files/regulamentos/acre/2026_AC_sub15.pdf) | |
 
 * * *
 
