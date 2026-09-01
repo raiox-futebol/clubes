@@ -97,13 +97,13 @@
 | 6º colocado  | Santos | SP | 6º Cabeça-de-chave |
 | 7º colocado  | Palmeiras | SP | 2º RNC/FF 2026 |
 | 8º colocado  | São Paulo | SP | 4º RNC/FF 2026 |
-| 9º colocado  | Red Bull Bragantino | SP | 6º R |NC/FF 2026
+| 9º colocado  | Red Bull Bragantino | SP | 6º RNC/FF 2026
 | 10º colocado | Grêmio | RS | 10º RNC/FF 2026 |
 | 11º colocado | Fluminense | RJ | 13º RNC/FF 2026 |
-| 12º colocado | América | MG | 14º RNC/FF 20 |26
+| 12º colocado | América | MG | 14º RNC/FF 2026
 | 13º colocado | Atlético | MG | 15º RNC/FF 2026 |
 | 14º colocado | Sport | PE | 17º RNC/FF 2026 |
-| 15º colocado | AD Taubaté | SP | 26º RNC/FF  |2026
+| 15º colocado | AD Taubaté | SP | 26º RNC/FF 2026 |
 | 16º colocado | Vasco da Gama | RJ | 27º RNC/FF 2026 |
 | 17º colocado | UDA | AL | 29ª RNC/FF 2026 |
 | 18º colocado | Vitória | BA | 31º RNC/FF 2026 |
@@ -111,7 +111,7 @@
 | 20º colocado | Aliança | GO | 52ª RNC/FF 2026 |
 | 21º colocado | Tarumã | AM | 54º RNC/FF 2026 |
 | 22º colocado | Criciúma | SC | 55º RNC/FF 2026 |
-| 23º colocado | Litoral Norte | BA | S/ Ranking 6º RNF/FF 20 |26
+| 23º colocado | Litoral Norte | BA | S/ Ranking 6º RNF/FF 2026 |
 | 24º colocado | Craques do Futuro | AC | S/ Ranking 25º RNF/FF 2026 |
 
 # BRASILEIRO SUB17
@@ -140,4 +140,8 @@
 | 22º colocado | AJAP | SC | S/ Ranking 8º RNF/FF 2026 |
 | 23º colocado | Londrina | PR | S/ Ranking 13º RNF/FF 2026 |
 | 24º colocado | Gazin Porto Velho | RO | S/ Ranking 18º RNF/FF 2026 |
+
+
+
+
 
