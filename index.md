@@ -205,6 +205,41 @@ Escudo|Nome|UF|Masculino|Feminino
 
 
 
+am_3b-da-amazonia
+am_itacoatiara
+am_penarol
+ap_portuguesa
+ap_ypiranga
+ba_doce-mel
+ce_r4
+df_cresspom
+df_minas-brasilia
+es_prosperidade
+go_planalto
+mg_araguari
+mg_itabirito
+ms_pantanal
+mt_acao
+pa_tiradentes
+pb_mixto-pb
+pe_ipojuca
+al_guarani-de-paripueira
+al_uda
+pi_atletico-piauiense
+pi_liga-sanjoanense
+rj_heips
+rj_perolas-negras
+rn_uniao
+ro_itapuense
+ro_rolim-de-moura
+rr_rio-negro
+rs_brasil-de-farroupilha
+se_juventude
+sp_taubate
+sp_realidade-jovem
+sp_mauaense
+sp_sao-jose
+to_paraiso
 
 
 
