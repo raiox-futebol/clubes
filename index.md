@@ -6,7 +6,7 @@ Escudo|Nome|UF|Feminino|Masculino
 :---|:---|:---|:---|:---
 ![clube](escudos/ba_bahia_512x512.png)|Esporte Clube Bahia SAF|BA|série A1|série A
 ![clube](escudos/ba_vitoria_512x512.png)|Esporte Clube Vitória|BA|série A1|série A
-![clube](escudos/mg_atletico-mineisro_512x512.png)|Atlético Mineiro S.A.F.|MG|série A1|série A
+![clube](escudos/mg_atletico-mineiro_512x512.png)|Atlético Mineiro S.A.F.|MG|série A1|série A
 ![clube](escudos/mg_cruzeiro_512x512.png)|Cruzeiro Esporte Clube SAF|MG|série A1|série A
 ![clube](escudos/rj_flamengo_512x512.png)|Clube de Regatas do Flamengo|RJ|série A1|série A
 ![clube](escudos/rj_fluminense_512x512.png)|Fluminense Football Club|RJ|série A1|série A
@@ -67,8 +67,8 @@ Escudo|Nome|UF|Feminino|Masculino
 ![clube](escudos/pr_coritiba_512x512.png)|Coritiba SAF|PR|série A3|série A
 ![clube](escudos/sc_criciuma_512x512.png)|Criciúma Esporte Clube|SC|série A3|série B
 ![clube](escudos/ac_galvez_512x512.png)|Galvez Esporte Clube|AC|série A3|série D
-![clube](escudos/ba_atletico-de-alagoinhas_512x512.png)|Alagoinhas Atlético Clube|BA|série A3|série D
-![clube](escudos/ma_sampaio-correa_512x512.png)|Sampaio Corrêa Futebol Clube|MA|série A3|série D
+![clube](escudos/ba_atletico-de-alagoinhas.svg)|Alagoinhas Atlético Clube|BA|série A3|série D
+![clube](escudos/ma_sampaio-correa.svg)|Sampaio Corrêa Futebol Clube|MA|série A3|série D
 ![clube](escudos/rr_sao-raimundo-rr_512x512.png)|São Raimundo Esporte Clube|RR|série A3|série D
 ![clube](escudos/pr_athletico-paranaense_512x512.png)|Athletico Paranaense|PR|**não participou**|série A
 ![clube](escudos/sc_chapecoense_512x512.png)|Chapecoense|SC|**não participou**|série A
@@ -107,92 +107,92 @@ Escudo|Nome|UF|Feminino|Masculino
 ![clube](escudos/sp_ituano_512x512.png)|Ituano Futebol Clube|SP|**não participou**|série C
 ![clube](escudos/ac_humaita-ac_512x512.png)|Sport Clube Humaitá|AC|**não participou**|série D
 ![clube](escudos/ac_independencia-ac_512x512.png)|Independência Futebol Clube|AC|**não participou**|série D
-![clube](escudos/al_asa_512x512.png)|Agremiação Sportiva Arapiraquense (ASA)|AL|**não participou**|série D
-![clube](escudos/al_csa_512x512.png)|Centro Sportivo Alagoano|AL|**não participou**|série D
-![clube](escudos/al_cse_512x512.png)|Clube Sociedade Esportiva-CSE|AL|**não participou**|série D
+![clube](escudos/al_asa.svg)|Agremiação Sportiva Arapiraquense (ASA)|AL|**não participou**|série D
+![clube](escudos/al_csa.svg)|Centro Sportivo Alagoano|AL|**não participou**|série D
+![clube](escudos/al_cse.svg)|Clube Sociedade Esportiva-CSE|AL|**não participou**|série D
 ![clube](escudos/am_manauara_512x512.png)|Manauara Esporte Clube|AM|**não participou**|série D
 ![clube](escudos/am_manaus_512x512.png)|Manaus Futebol Clube|AM|**não participou**|série D
 ![clube](escudos/am_nacional-am_512x512.png)|Nacional Futebol Clube|AM|**não participou**|série D
-![clube](escudos/ap_oratorio_512x512.png)|Oratório Recreativo Clube|AP|**não participou**|série D
+![clube](escudos/ap_oratorio.svg)|Oratório Recreativo Clube|AP|**não participou**|série D
 ![clube](escudos/ap_trem_512x512.png)|Trem Desportivo Clube|AP|**não participou**|série D
-![clube](escudos/ba_jacuipense_512x512.png)|Esporte Clube Jacuipense|BA|**não participou**|série D
-![clube](escudos/ba_juazeirense_512x512.png)|Sociedade Desportiva Juazeirense|BA|**não participou**|série D
-![clube](escudos/ba_porto-ba_512x512.png)|Porto Seguro SAF|BA|**não participou**|série D
-![clube](escudos/ce_atletico-cearense_512x512.png)|Futebol Clube Atlético Cearense|CE|**não participou**|série D
-![clube](escudos/ce_ferroviario-ce_512x512.png)|Ferroviário Atlético Clube|CE|**não participou**|série D
-![clube](escudos/ce_iguatu_512x512.png)|Associação Desportiva Iguatu|CE|**não participou**|série D
-![clube](escudos/ce_maracana_512x512.png)|Maracanã Esporte Clube|CE|**não participou**|série D
-![clube](escudos/ce_tirol_512x512.png)|Saf Centro de Formação de Atletas do Tirol|CE|**não participou**|série D
+![clube](escudos/ba_jacuipense.svg)|Esporte Clube Jacuipense|BA|**não participou**|série D
+![clube](escudos/ba_juazeirense.svg)|Sociedade Desportiva Juazeirense|BA|**não participou**|série D
+![clube](escudos/ba_porto-ba.svg)|Porto Seguro SAF|BA|**não participou**|série D
+![clube](escudos/ce_atletico-cearense.svg)|Futebol Clube Atlético Cearense|CE|**não participou**|série D
+![clube](escudos/ce_ferroviario-ce.svg)|Ferroviário Atlético Clube|CE|**não participou**|série D
+![clube](escudos/ce_iguatu.svg)|Associação Desportiva Iguatu|CE|**não participou**|série D
+![clube](escudos/ce_maracana.svg)|Maracanã Esporte Clube|CE|**não participou**|série D
+![clube](escudos/ce_tirol.svg)|Saf Centro de Formação de Atletas do Tirol|CE|**não participou**|série D
 ![clube](escudos/df_brasiliense_512x512.png)|Brasiliense Futebol Clube-Sociedade Anônima do Futebol|DF|**não participou**|série D
 ![clube](escudos/df_capital-cf_512x512.png)|Capital Sociedade Anônima do Futebol|DF|**não participou**|série D
 ![clube](escudos/df_ceilandia_512x512.png)|Ceilândia Esporte Clube SAF|DF|**não participou**|série D
 ![clube](escudos/df_gama_512x512.png)|Sociedade Esportiva do Gama|DF|**não participou**|série D
-![clube](escudos/es_real-noroeste_512x512.png)|Real Noroeste Capixaba Futebol Clube Ltda|ES|**não participou**|série D
-![clube](escudos/es_rio-branco-es_512x512.png)|Rio Branco Atletico Clube Sociedade Anonima do Futebol|ES|**não participou**|série D
-![clube](escudos/es_vitoria-es_512x512.png)|Vitoria Futebol Clube|ES|**não participou**|série D
-![clube](escudos/go_abecat-ouvidorense_512x512.png)|ABECAT-Ouvidorense SAF|GO|**não participou**|série D
+![clube](escudos/es_real-noroeste.svg)|Real Noroeste Capixaba Futebol Clube Ltda|ES|**não participou**|série D
+![clube](escudos/es_rio-branco-es.svg)|Rio Branco Atletico Clube Sociedade Anonima do Futebol|ES|**não participou**|série D
+![clube](escudos/es_vitoria-es.svg)|Vitoria Futebol Clube|ES|**não participou**|série D
+![clube](escudos/go_abecat-ouvidorense.svg)|ABECAT-Ouvidorense SAF|GO|**não participou**|série D
 ![clube](escudos/go_aparecidense_512x512.png)|Associação Atlética Aparecidense|GO|**não participou**|série D
-![clube](escudos/go_crac_512x512.png)|CRAC-Clube Recreativo E Atletico Catalano|GO|**não participou**|série D
+![clube](escudos/go_crac.svg)|CRAC-Clube Recreativo E Atletico Catalano|GO|**não participou**|série D
 ![clube](escudos/go_goiatuba_512x512.png)|Goiatuba Esporte Clube|GO|**não participou**|série D
 ![clube](escudos/go_inhumas_512x512.png)|Inhumas Esporte Clube|GO|**não participou**|série D
-![clube](escudos/ma_iape_512x512.png)|IAPE-Instituto de Administração de Projeto Educacional|MA|**não participou**|série D
+![clube](escudos/ma_iape.svg)|IAPE-Instituto de Administração de Projeto Educacional|MA|**não participou**|série D
 ![clube](escudos/ma_imperatriz_512x512.png)|Sociedade Imperatriz de Desportos|MA|**não participou**|série D
-![clube](escudos/ma_moto-club-sao-luis_512x512.png)|Moto Club de São Luís|MA|**não participou**|série D
-![clube](escudos/mg_betim_512x512.png)|Associação Mineira de Desenvolvimento Humano (Betim)|MG|**não participou**|série D
-![clube](escudos/mg_democrata-gv_512x512.png)|Esporte Clube Democrata|MG|**não participou**|série D
-![clube](escudos/mg_pouso-alegre_512x512.png)|Pouso Alegre Futebol Clube-Sociedade Anônima do Futebol|MG|**não participou**|série D
-![clube](escudos/mg_tombense_512x512.png)|Tombense Futebol Clube|MG|**não participou**|série D
-![clube](escudos/mg_uberlandia_512x512.png)|Uberlandia Esporte Clube S.a.f.|MG|**não participou**|série D
-![clube](escudos/ms_ivinhema_512x512.png)|Ivinhema Futebol Clube|MS|**não participou**|série D
-![clube](escudos/ms_operario-ms_512x512.png)|Operário Futebol Clube|MS|**não participou**|série D
+![clube](escudos/ma_moto-club-sao-luis.svg)|Moto Club de São Luís|MA|**não participou**|série D
+![clube](escudos/mg_betim.svg)|Associação Mineira de Desenvolvimento Humano (Betim)|MG|**não participou**|série D
+![clube](escudos/mg_democrata-gv.svg)|Esporte Clube Democrata|MG|**não participou**|série D
+![clube](escudos/mg_pouso-alegre.svg)|Pouso Alegre Futebol Clube-Sociedade Anônima do Futebol|MG|**não participou**|série D
+![clube](escudos/mg_tombense.svg)|Tombense Futebol Clube|MG|**não participou**|série D
+![clube](escudos/mg_uberlandia.svg)|Uberlandia Esporte Clube S.a.f.|MG|**não participou**|série D
+![clube](escudos/ms_ivinhema.svg)|Ivinhema Futebol Clube|MS|**não participou**|série D
+![clube](escudos/ms_operario-ms.svg)|Operário Futebol Clube|MS|**não participou**|série D
 ![clube](escudos/mt_luverdense_512x512.png)|Luverdense Esporte Clube|MT|**não participou**|série D
 ![clube](escudos/mt_primavera_512x512.png)|Primavera Atlético Clube Ltda.|MT|**não participou**|série D
 ![clube](escudos/mt_uniao-rondonopolis_512x512.png)|Uniao Esporte Clube de Rondonópolis|MT|**não participou**|série D
-![clube](escudos/mt_operario-varzea-grande_512x512.png)|Clube Esportivo Operário Varzeagrandense|MT|**não participou**|série D
+![clube](escudos/mt_operario-varzea-grande.svg)|Clube Esportivo Operário Varzeagrandense|MT|**não participou**|série D
 ![clube](escudos/pa_aguia-de-maraba_512x512.png)|Águia de Marabá Futebol Clube|PA|**não participou**|série D
 ![clube](escudos/pa_tuna-luso_512x512.png)|Tuna Luso Brasileira|PA|**não participou**|série D
-![clube](escudos/pb_serra-branca_512x512.png)|Paraiba Sport Clube (Serra Branca)|PB|**não participou**|série D
-![clube](escudos/pb_sousa_512x512.png)|Sousa Esporte Clube|PB|**não participou**|série D
-![clube](escudos/pb_treze_512x512.png)|Treze Futebol Clube|PB|**não participou**|série D
-![clube](escudos/pe_central-pe_512x512.png)|Central Sport Club|PE|**não participou**|série D
-![clube](escudos/pe_decisao_512x512.png)|Sociedade Esportiva Decisão Futebol Clube|PE|**não participou**|série D
-![clube](escudos/pe_maguary-pe_512x512.png)|Associação Atlética Maguary|PE|**não participou**|série D
-![clube](escudos/pe_retro_512x512.png)|Retrô Futebol Clube Brasil|PE|**não participou**|série D
-![clube](escudos/pi_altos_512x512.png)|Associação Esportiva de Altos|PI|**não participou**|série D
-![clube](escudos/pi_fluminense-pi_512x512.png)|Fluminense Esporte Clube|PI|**não participou**|série D
-![clube](escudos/pi_parnahyba_512x512.png)|Parnahyba Sport Club|PI|**não participou**|série D
-![clube](escudos/pi_piaui_512x512.png)|Piauí Esporte Clube|PI|**não participou**|série D
-![clube](escudos/pr_azuriz_512x512.png)|Azuriz Futebol de Alta Performance SAF|PR|**não participou**|série D
-![clube](escudos/pr_cianorte_512x512.png)|Leão do Vale-Cianorte Futebol Clube Saf|PR|**não participou**|série D
-![clube](escudos/pr_fc-cascavel_512x512.png)|Futebol Clube Cascavel Ltda|PR|**não participou**|série D
-![clube](escudos/pr_sao-joseense_512x512.png)|Goncalves Bacetto E Pelc Esporte Clube Ltda-Sãojoseense|PR|**não participou**|série D
-![clube](escudos/rj_america-rj_512x512.png)|America Football Club|RJ|**não participou**|série D
-![clube](escudos/rj_madureira_512x512.png)|Madureira esporte clube|RJ|**não participou**|série D
-![clube](escudos/rj_marica_512x512.png)|Marica Futebol Clube Ltda|RJ|**não participou**|série D
-![clube](escudos/rj_nova-iguacu_512x512.png)|Nova Iguaçu Saf-Sociedade Anônima de Futebol|RJ|**não participou**|série D
-![clube](escudos/rj_portuguesa-rj_512x512.png)|Associação Atlética Portuguesa|RJ|**não participou**|série D
-![clube](escudos/rj_sampaio-correa-rj_512x512.png)|Sampaio Correa Futebol E Esporte Ltda.|RJ|**não participou**|série D
-![clube](escudos/rn_abc_512x512.png)|ABC Futebol Clube|RN|**não participou**|série D
-![clube](escudos/rn_america-rn_512x512.png)|América Futebol Clube S.A.F|RN|**não participou**|série D
-![clube](escudos/rn_laguna-rn_512x512.png)|Clube Laguna Sociedade Anônima do Futebol|RN|**não participou**|série D
+![clube](escudos/pb_serra-branca.svg)|Paraiba Sport Clube (Serra Branca)|PB|**não participou**|série D
+![clube](escudos/pb_sousa.svg)|Sousa Esporte Clube|PB|**não participou**|série D
+![clube](escudos/pb_treze.svg)|Treze Futebol Clube|PB|**não participou**|série D
+![clube](escudos/pe_central-pe.svg)|Central Sport Club|PE|**não participou**|série D
+![clube](escudos/pe_decisao.svg)|Sociedade Esportiva Decisão Futebol Clube|PE|**não participou**|série D
+![clube](escudos/pe_maguary-pe.svg)|Associação Atlética Maguary|PE|**não participou**|série D
+![clube](escudos/pe_retro.svg)|Retrô Futebol Clube Brasil|PE|**não participou**|série D
+![clube](escudos/pi_altos.svg)|Associação Esportiva de Altos|PI|**não participou**|série D
+![clube](escudos/pi_fluminense-pi.svg)|Fluminense Esporte Clube|PI|**não participou**|série D
+![clube](escudos/pi_parnahyba.svg)|Parnahyba Sport Club|PI|**não participou**|série D
+![clube](escudos/pi_piaui.svg)|Piauí Esporte Clube|PI|**não participou**|série D
+![clube](escudos/pr_azuriz.svg)|Azuriz Futebol de Alta Performance SAF|PR|**não participou**|série D
+![clube](escudos/pr_cianorte.svg)|Leão do Vale-Cianorte Futebol Clube Saf|PR|**não participou**|série D
+![clube](escudos/pr_fc-cascavel.svg)|Futebol Clube Cascavel Ltda|PR|**não participou**|série D
+![clube](escudos/pr_sao-joseense.svg)|Goncalves Bacetto E Pelc Esporte Clube Ltda-Sãojoseense|PR|**não participou**|série D
+![clube](escudos/rj_america-rj.svg)|America Football Club|RJ|**não participou**|série D
+![clube](escudos/rj_madureira.svg)|Madureira esporte clube|RJ|**não participou**|série D
+![clube](escudos/rj_marica.svg)|Marica Futebol Clube Ltda|RJ|**não participou**|série D
+![clube](escudos/rj_nova-iguacu.svg)|Nova Iguaçu Saf-Sociedade Anônima de Futebol|RJ|**não participou**|série D
+![clube](escudos/rj_portuguesa-rj.svg)|Associação Atlética Portuguesa|RJ|**não participou**|série D
+![clube](escudos/rj_sampaio-correa-rj.svg)|Sampaio Correa Futebol E Esporte Ltda.|RJ|**não participou**|série D
+![clube](escudos/rn_abc.svg)|ABC Futebol Clube|RN|**não participou**|série D
+![clube](escudos/rn_america-rn.svg)|América Futebol Clube S.A.F|RN|**não participou**|série D
+![clube](escudos/rn_laguna-rn.svg)|Clube Laguna Sociedade Anônima do Futebol|RN|**não participou**|série D
 ![clube](escudos/ro_guapore_512x512.png)|Guaporé Futebol Clube|RO|**não participou**|série D
 ![clube](escudos/ro_porto-velho_512x512.png)|Gazin Porto Velho Esporte Clube|RO|**não participou**|série D
 ![clube](escudos/rr_gremio-atletico-sampaio_512x512.png)|Grêmio Atlético Sampaio-GAS|RR|**não participou**|série D
 ![clube](escudos/rr_monte-roraima_512x512.png)|Monte Roraima Futebol Clube-Sociedade Anônima do Futebol|RR|**não participou**|série D
-![clube](escudos/rs_brasil-de-pelotas_512x512.png)|Grêmio Esportivo Brasil|RS|**não participou**|série D
-![clube](escudos/rs_guarany-de-bage_512x512.png)|Guarany Futebol Clube|RS|**não participou**|série D
-![clube](escudos/rs_sao-jose-rs_512x512.png)|Esporte Clube São José|RS|**não participou**|série D
-![clube](escudos/rs_sao-luiz_512x512.png)|Esporte Clube São Luiz|RS|**não participou**|série D
-![clube](escudos/sc_blumenau_512x512.png)|Blumenau Esporte Clube SAF|SC|**não participou**|série D
-![clube](escudos/sc_joinville_512x512.png)|Joinville Esporte Clube|SC|**não participou**|série D
-![clube](escudos/sc_marcilio-dias_512x512.png)|Clube Náutico Marcílio Dias|SC|**não participou**|série D
-![clube](escudos/sc_santa-catarina_512x512.png)|Santa Catarina Clube|SC|**não participou**|série D
-![clube](escudos/se_lagarto_512x512.png)|Lagarto Futebol Clube|SE|**não participou**|série D
-![clube](escudos/se_sergipe_512x512.png)|Club Sportivo Sergipe|SE|**não participou**|série D
-![clube](escudos/sp_agua-santa_512x512.png)|Esporte Clube Água Santa|SP|**não participou**|série D
-![clube](escudos/sp_noroeste_512x512.png)|Esporte Clube Noroeste Saf|SP|**não participou**|série D
-![clube](escudos/sp_portuguesa_512x512.png)|Portuguesa Sociedade Anônima do Futebol|SP|**não participou**|série D
-![clube](escudos/sp_velo-clube_512x512.png)|Associação Esportiva Velo Clube Rioclarense|SP|**não participou**|série D
-![clube](escudos/sp_xv-de-piracicaba_512x512.png)|Esporte Clube XV de Novembro|SP|**não participou**|série D
+![clube](escudos/rs_brasil-de-pelotas.svg)|Grêmio Esportivo Brasil|RS|**não participou**|série D
+![clube](escudos/rs_guarany-de-bage.svg)|Guarany Futebol Clube|RS|**não participou**|série D
+![clube](escudos/rs_sao-jose-rs.svg)|Esporte Clube São José|RS|**não participou**|série D
+![clube](escudos/rs_sao-luiz.svg)|Esporte Clube São Luiz|RS|**não participou**|série D
+![clube](escudos/sc_blumenau.svg)|Blumenau Esporte Clube SAF|SC|**não participou**|série D
+![clube](escudos/sc_joinville.svg)|Joinville Esporte Clube|SC|**não participou**|série D
+![clube](escudos/sc_marcilio-dias.svg)|Clube Náutico Marcílio Dias|SC|**não participou**|série D
+![clube](escudos/sc_santa-catarina.svg)|Santa Catarina Clube|SC|**não participou**|série D
+![clube](escudos/se_lagarto.svg)|Lagarto Futebol Clube|SE|**não participou**|série D
+![clube](escudos/se_sergipe.svg)|Club Sportivo Sergipe|SE|**não participou**|série D
+![clube](escudos/sp_agua-santa.svg)|Esporte Clube Água Santa|SP|**não participou**|série D
+![clube](escudos/sp_noroeste.svg)|Esporte Clube Noroeste Saf|SP|**não participou**|série D
+![clube](escudos/sp_portuguesa.svg)|Portuguesa Sociedade Anônima do Futebol|SP|**não participou**|série D
+![clube](escudos/sp_velo-clube.svg)|Associação Esportiva Velo Clube Rioclarense|SP|**não participou**|série D
+![clube](escudos/sp_xv-de-piracicaba.svg)|Esporte Clube XV de Novembro|SP|**não participou**|série D
 ![clube](escudos/to_araguaina_512x512.png)|Araguaina Futebol e Regatas|TO|**não participou**|série D
 ![clube](escudos/to_tocantinopolis_512x512.png)|Tocantinópolis Esporte Clube|TO|**não participou**|série D
